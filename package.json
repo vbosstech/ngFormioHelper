@@ -33,9 +33,9 @@
   "dependencies": {
     "angular-ui-router": "^0.4.2",
     "lodash": "^4.17.10",
-    "ng-formio": "^2.35.3",
-    "ng-formio-builder": "^2.35.3",
-    "ng-formio-grid": "^1.4.1"
+    "@eform/ng-formio": "^2.35.3",
+    "@eform/ng-formio-builder": "^2.35.3",
+    "@eform/ng-formio-grid": "^1.4.1"
   },
   "browserify": {
     "transform": [
