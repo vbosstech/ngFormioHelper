@@ -1,6 +1,6 @@
-This is a helper module to build Angular.js applications on top of Form.io
+This is a helper module to build Angular.js applications on top of eForm
 ===============
-Use this helper if you would like to build an Angular.js 1.x application that utilizes Form.io to build an application.
+Use this helper if you would like to build an Angular.js 1.x application that utilizes eForm to build an application.
 
 Installation
 ---------------

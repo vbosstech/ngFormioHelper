@@ -1,12 +1,12 @@
 {
-  "name": "ng-formio-helper",
+  "name": "@eform/ng-formio-helper",
   "version": "1.8.3",
   "authors": [
     "vBOSS <vbosstech@gmail.com>"
   ],
-  "description": "A library to help build Angular.js applications on top of Form.io.",
+  "description": "A library to help build Angular.js applications on top of eForm.",
   "keywords": [
-    "formio"
+    "eform"
   ],
   "license": "MIT",
   "ignore": [
@@ -21,10 +21,10 @@
   "dependencies": {
     "angular-ui-router": "^0.4.2",
     "lodash": "^4.17.10",
-    "ng-formio": "^2.35.3",
-    "ng-formio-grid": "^1.4.1",
+    "@eform/ng-formio": "^2.35.3",
+    "@eform/ng-formio-grid": "^1.4.1",
     "angular-paginate-anything": "^4.2.0",
-    "ng-formio-builder": "^2.35.3",
+    "@eform/ng-formio-builder": "^2.35.3",
     "ng-tags-input": "^3.2.0"
   },
   "main": [
